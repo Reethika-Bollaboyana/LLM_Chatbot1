@@ -1,0 +1,12 @@
+langchain
+openai
+python-dotenv
+requests
+redis
+transformers
+sentence-transformers
+fastapi
+uvicorn
+pydantic #data validation
+jinja2 
+
